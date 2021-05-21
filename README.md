@@ -19,7 +19,7 @@ Overkørsel består af:
 * Betjeningskasse:
   * Knap for manuel tænd.
 
-![Trafikplan](/images/trafikplan.png)
+![Trafikplan](trafikplan.png)
 
 # Tilstande
 Overkørsel kan være i følgende tilstande.
