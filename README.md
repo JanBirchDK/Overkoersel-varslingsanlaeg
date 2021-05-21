@@ -54,14 +54,4 @@ Arduiono har følgende ind- og udgange:
 Prototype er opstillet på breadboard og får de I/O som er vist herover.
 Vejlys er styret af effektelektronik med 1 indgang koblet til Arduino.
 
-## Tilslutning pin
-Arduino bruger følgende porte:
-Funktion                                     | Pin |
----------------------------------------------| --- |
-Indgang: Knap for manuel tænd                |   2 |
-Udgang køreretning AB: Uordenssignal gul LED |   7 |
-Udgang køreretning BA: Uordenssignal gul LED |   8 |
-Udgang vejklokker: Aktiv buzzer              |  10 |
-Udgang vejlys: Rød LED                       |  11 |
-
 Se i øvrigt ”Breadboard”.
